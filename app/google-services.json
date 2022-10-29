@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635218205155",
+    "project_id": "keva-3c011",
+    "storage_bucket": "keva-3c011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635218205155:android:cd0c015fa8250bb8e6a8d6",
+        "android_client_info": {
+          "package_name": "com.example.keva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635218205155-tk1causd2tru09cenhqph44237306cqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keva",
+            "certificate_hash": "359a98843e84df720c441f742c764e074d505a4c"
+          }
+        },
+        {
+          "client_id": "635218205155-13bos3q8kjb5evn090o9vcdt0ts5g1dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5f6qe9vGsPIJfNDb7ZZODJjN6pJ5IOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635218205155-13bos3q8kjb5evn090o9vcdt0ts5g1dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
